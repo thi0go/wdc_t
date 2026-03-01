@@ -1,3 +1,5 @@
 # wdc_t
 
-Front End
+Nama Tim: Jo
+Nama Web: Ame
+
